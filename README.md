@@ -56,20 +56,9 @@ For detailed documentation of the modules, refer to the `docs` folder.
 
 ## **Acknowledgments**  
 
-This work would not have been possible without the mentorship and support of **Professor Dr. Zhiqiang Shen**, Assistant Professor of Machine Learning at **MBZUAI**.  
-
-Special thanks to **Microsoft** for developing the original Graph-RAG architecture, which served as the inspiration for this implementation.  
+This work just the implementation of orignal GraphRag released by Microsoft. 
 
 ---  
 
-## **Contributing**  
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.  
 
----
-
-## **License**  
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
----
-
-If you have any questions or feedback, feel free to open an issue or contact the repository owner.
+If you have any questions or feedback, feel free to open an issue or contact me.
